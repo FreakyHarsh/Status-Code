@@ -1,4 +1,4 @@
-# Status-Code
+# Status-Code :man_technologist:	
 This are some of the status codes for reference.. 
 <html>
                 <head>
