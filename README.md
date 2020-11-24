@@ -1,4 +1,4 @@
-# Status-Code :man_technologist:
+# Status-Code 🕵🏻
 
 These are some of the status codes for reference..
 
