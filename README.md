@@ -87,7 +87,3 @@ These are some of the status codes for reference..
 | 511  | Network Authentication Required |
 | 599  | Network Connect Timeout Error   |
 
-Other sources:
-
-- [MCN Status Code List](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
-- [HTTP Statuses](https://httpstatuses.com/)
